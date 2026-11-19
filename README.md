@@ -1,0 +1,2 @@
+The Multi Sensor Based Monitoring System is an electronic project designed to detect and monitor different environmental conditions using multiple sensors.
+This project uses sensors to collect real-time data from the surroundings. The collected data is processed by a microcontroller such as Arduino. Based on the sensor readings, the system can identify changes in the environment and provide alerts when necessary.
